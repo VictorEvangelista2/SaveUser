@@ -22,3 +22,12 @@
 
 #### Esta função criaLista() gera dinamicamente uma tabela HTML que lista todos os nomes de usuários armazenados em dadosLista. Ela também adiciona botões "Editar" e "Excluir" para cada linha, permitindo que o usuário interaja com os dados diretamente na tabela, tornando a página mais interativa e funcional.
 ![Screenshot_20240808-193624~3](https://github.com/user-attachments/assets/6e00156c-251e-41ad-9cf3-8d671aa70085)
+
+### 4° Função "Editar Nomes"
+
+#### A função editar é uma ferramenta para modificar uma lista de nomes, permitindo que você selecione um nome, edite-o em um campo de texto e atualize a lista original com a nova informação.
+![Screenshot_20240808-195124~2](https://github.com/user-attachments/assets/8c1d1c13-65a2-4f1d-bab5-ea94704bf22a)
+
+### 5° Função "Excluir Nomes" 
+
+#### 
