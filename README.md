@@ -30,4 +30,8 @@
 
 ### 5° Função "Excluir Nomes" 
 
-#### 
+#### A função excluir é como uma tesoura para listas e tabelas. Você indica qual item deseja cortar (pelo índice) e ela remove tanto da lista interna (onde os dados são armazenados) quanto da tabela visual (onde o usuário vê a lista).
+
+#### Essa função é muito comum em aplicações web que permitem aos usuários gerenciar listas de itens, como listas de tarefas, contatos, produtos em um carrinho de compras, etc. Ao clicar em um botão "Excluir" ao lado de um item, essa função seria chamada para remover o item da lista e da interface.
+![Screenshot_20240808-195124~3](https://github.com/user-attachments/assets/5cbbf544-3e34-42b1-b289-4cbd88cbc5a8)
+
