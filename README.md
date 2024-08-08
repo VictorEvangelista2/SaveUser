@@ -18,3 +18,7 @@
 #### Este código permite que o usuário insira um nome em um campo de texto. Se o nome for fornecido, ele é salvo em uma lista e a interface é atualizada para refletir o novo dado. Se o campo estiver vazio, o usuário recebe um alerta pedindo para inserir um nome.
 ![Screenshot_20240808-192033~2](https://github.com/user-attachments/assets/3c063110-8936-4660-913b-c88630bf7b2b)
 
+### 3° Função "criaLista"
+
+#### Esta função criaLista() gera dinamicamente uma tabela HTML que lista todos os nomes de usuários armazenados em dadosLista. Ela também adiciona botões "Editar" e "Excluir" para cada linha, permitindo que o usuário interaja com os dados diretamente na tabela, tornando a página mais interativa e funcional.
+![Screenshot_20240808-193624~3](https://github.com/user-attachments/assets/6e00156c-251e-41ad-9cf3-8d671aa70085)
