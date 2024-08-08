@@ -35,3 +35,12 @@
 #### Essa função é muito comum em aplicações web que permitem aos usuários gerenciar listas de itens, como listas de tarefas, contatos, produtos em um carrinho de compras, etc. Ao clicar em um botão "Excluir" ao lado de um item, essa função seria chamada para remover o item da lista e da interface.
 ![Screenshot_20240808-195124~3](https://github.com/user-attachments/assets/5cbbf544-3e34-42b1-b289-4cbd88cbc5a8)
 
+# Conclusões 
+
+### Uma aplicação web que permite ao usuário criar uma tabela com nomes inseridos por ele, com as funcionalidades de exclusão e edição, uma aplicação como essa oferece uma interface simples e intuitiva para o usuário gerenciar uma lista de nomes, proporcionando as funcionalidades básicas de editar e excluir.
+
+### resultados finais 
+
+### foto das páginas web
+
+### gif da pag web funcionando 
