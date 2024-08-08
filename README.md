@@ -12,3 +12,9 @@
 
 ### Essa função verifica se os campos de email e senha estão preenchidos e, se estiverem, redireciona o usuário para outra página. Caso contrário, exibe uma mensagem solicitando o preenchimento de todos os campos.
 ![Screenshot_20240808-183248~3](https://github.com/user-attachments/assets/3654c5a0-c948-4eca-93fa-d020ccb977f1)
+
+### 2° Função "salvarUser"
+
+### Este código permite que o usuário insira um nome em um campo de texto. Se o nome for fornecido, ele é salvo em uma lista e a interface é atualizada para refletir o novo dado. Se o campo estiver vazio, o usuário recebe um alerta pedindo para inserir um nome.
+![Screenshot_20240808-192033~2](https://github.com/user-attachments/assets/3c063110-8936-4660-913b-c88630bf7b2b)
+
