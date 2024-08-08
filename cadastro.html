@@ -10,16 +10,14 @@
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 </head>
 <body>
-    
-    <form class="form-control container">
-        <div class="container">
+    <div class="container col-8">
+    <form class="form-control">
             <label for="">Nome</label>
-            <input type="text" class="form-control" id="nomeUser">
-            <button type="button" class="btn btn-danger col-3">Salvar</button>
+            <input type="text" class="form-control" id="nomeUser" style="margin-bottom: 2%;">
+            <button type="button" class="btn btn-danger col-3" onblur="salvarUser()">Salvar</button>
             </div>
     </form>
     
-
     <br>
     <hr>
     <div class="container">
@@ -31,9 +29,6 @@
         </table>
 
     </div>
-
-
-   
 
 
     <script src='controler.js'></script>
