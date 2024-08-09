@@ -43,6 +43,7 @@
 
  - <img src="exemplo 1.png">
  - <img src="exemplo 2.png">
+ - <img src="exemplo-gif.gif">
 
 # Tecnologias Utilizadas 
 
