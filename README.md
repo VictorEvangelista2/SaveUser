@@ -41,6 +41,12 @@
 
 # Resultados Finais 
 
- - ![exemplo 1](exemplo1.png)
+ - <img src="exemplo 1.png">
+ - <img src="exemplo 2.png">
 
-### gif da pag web funcionando 
+# Tecnologias Utilizadas 
+
+ - **[HTML5](https://html.spec.whatwg.org/)**
+ - **[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
+ - **[BootStrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)**
+
