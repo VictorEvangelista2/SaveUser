@@ -41,6 +41,6 @@
 
 # Resultados Finais 
 
-### foto das páginas web
+ - 
 
 ### gif da pag web funcionando 
