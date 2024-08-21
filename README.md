@@ -1,5 +1,7 @@
 # Salvar Cadastro
+
 # Introdução 
+
 #### Este projeto tem como objetivo criar um sistema de cadastro de usuário utilizando JavaScript. Nele, o nome do usuário será inserido em uma tabela para facilitar o gerenciamento e a visualização dos dados.
 
 #### As funções em JavaScript desempenham um papel crucial na interação com tabelas em uma página web, tornando a aplicação mais dinâmica e funcional. Elas permitem que os dados sejam inseridos, manipulados e exibidos na tabela de forma eficiente e interativa.
@@ -41,13 +43,22 @@
 
 # Resultados Finais 
 
- - <img src="exemplo 1.png">
- - <img src="exemplo 2.png">
- - <img src="exemplo-gif.gif">
+ - <img src="Imagens/exemplo 1.png">
+ - <img src="Imagens/exemplo 2.png">
+ - <img src="Gifs/exemplo-gif.gif">
+
+# Atualização do Projeto 
+
+#### Nesta atualização foram feitas diversas alterações tanto na estilização mostrada abaixo mas também nas funcões do arquivo em JavaScript com a adição de mais um campo para inserção do email do usuário. Portanto será mostrado abaixo as imagens e gifs da nova versão deste projeto.
+
+<img src="Imagens/exemploATZ.png">
+<img src="Imagens/exemploATZ2.png">
+<img src="Gifs/gifATZ.gif">
+
+
 
 # Tecnologias Utilizadas 
 
  - **[HTML5](https://html.spec.whatwg.org/)**
  - **[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
  - **[BootStrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)**
-
