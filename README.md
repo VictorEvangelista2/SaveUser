@@ -55,10 +55,9 @@
 <img src="Imagens/exemploATZ2.png">
 <img src="Gifs/gifATZ.gif">
 
-
-
 # Tecnologias Utilizadas 
 
  - **[HTML5](https://html.spec.whatwg.org/)**
  - **[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
  - **[BootStrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)**
+ - **[Adobe Express](https://www.adobe.com/br/express/)**
