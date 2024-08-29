@@ -10,36 +10,50 @@
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 </head>
 
-<body style="background-color: rgba(129, 128, 128, 0.589);">
+<body style="background-color: rgba(255, 255, 255, 0.171);">
 
     <div class="container col-8">
-    <form class="form-control" style="background-color: rgba(129, 128, 128, 0.075);">
+        <form class="form-control" style="background-color: rgba(243, 238, 238, 0.178);">
+            <form id="cpfForm">
 
-            <label for="" style="margin-bottom: 2%;">Nome</label>
-            <input type="text" class="form-control" id="nomeUser" style="margin-bottom: 2%; background-color: rgba(245, 237, 237, 0.39); ">
-            
-            <label for="" style="margin-bottom: 2%;">Email</label>
-            <input type="email" class="form-control" id="emailUser" style="margin-bottom: 2%; background-color: rgba(245, 237, 237, 0.39); ">
+                <div class="mb-3">
+                    <label for="nomeUser" class="form-label">Nome:</label>
+                    <input type="text" id="nomeUser" name="nomeUser" class="form-control" style="background-color: rgba(223, 217, 217, 0.904);">
+                </div>
 
-            <button type="button" onclick="salvarUser()" class="btn btn-dark col-3" style="margin-bottom: 2%;">Enviar</button>
+                <div class="mb-3">
+                    <label for="emailUser" class="form-label">Email:</label>
+                    <input type="email" id="emailUser" name="emailUser" class="form-control" style="background-color: rgba(223, 217, 217, 0.904);">
+                </div>
+                <div class="mb-3">
+                    <label for="cpfUser" class="form-label">CPF:</label>
+                    <input type="text" id="cpfUser" name="cpfUser" class="form-control" style="background-color: rgba(223, 217, 217, 0.904);">
+                </div>
+                <p id="message"></p>
+
+                <button type="button" id="salvarBtn" class="btn" style="background-color: rgba(57, 111, 192, 0.712); font;">Salvar</button>
 
     
+
+            </form>
+        </form>
     </div>
-    </form>  
     
     <br>
     <hr>
     <div class="container">
         <table class="table table-striped" id="tabela">
-            <tr>
-                <th>Nome de Usuário</th>
-                <th>Email</th>
-                <th>Ações</th>
-                
-            </tr>
+            <thead>
+                <tr>
+                    <th>Nome de Usuário</th>
+                    <th>Email</th>
+                    <th>CPF</th>
+                    <th>Ações</th>
+                </tr>
+            </thead>
+            
         </table>
     </div>
-
 
     <script src='controler.js'></script>
 </body>
