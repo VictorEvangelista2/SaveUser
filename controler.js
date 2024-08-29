@@ -4,11 +4,12 @@ function acessar(){
     let loginSenha = document.getElementById('loginSenha').value;
  
     if(!loginEmail || !loginSenha){
-        alert('Favor preencher todos os campos');
+        alert('Preencha todos os campos para acessar');
     }
     else{
-        //alert('campos preenchidos com sucesso');
+        
         window.location.href = 'cadastro.html';
+        alert('Campos preenchidos com sucesso');
     }
 }
  
@@ -29,7 +30,7 @@ function salvarUser() {
 
     // Validação de nome
     if (!nomeUser) {
-        alert("Informe algum nome!!!");
+        alert("Insira algum nome!");
         return;
     }
 
@@ -41,7 +42,7 @@ function salvarUser() {
 
     // Validação de CPF
     if (!cpfUser) {
-        alert("Informe um CPF!!!");
+        alert("Informe um CPF válido!");
         return;
     }
 

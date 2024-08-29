@@ -10,28 +10,30 @@
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 </head>
 
-<body style="background-color: rgba(255, 255, 255, 0.171);">
+<body style="background-color: rgba(255, 255, 255, 0.171); margin: 2% ;">
 
-    <div class="container col-8">
+    <div class="container col-4">
         <form class="form-control" style="background-color: rgba(243, 238, 238, 0.178);">
             <form id="cpfForm">
 
-                <div class="mb-3">
-                    <label for="nomeUser" class="form-label">Nome:</label>
-                    <input type="text" id="nomeUser" name="nomeUser" class="form-control" style="background-color: rgba(223, 217, 217, 0.904);">
+                <div class="mb-3 col-12">
+                    <label for="nomeUser" class="form-label" style="font-size: medium;">Nome</label>
+                    <input type="text" id="nomeUser" name="nomeUser" class="form-control" style="background-color: rgba(255, 255, 255, 0.993); margin-bottom: 5%;">
                 </div>
 
-                <div class="mb-3">
-                    <label for="emailUser" class="form-label">Email:</label>
-                    <input type="email" id="emailUser" name="emailUser" class="form-control" style="background-color: rgba(223, 217, 217, 0.904);">
+                <div class="mb-3 col-12">
+                    <label for="emailUser" class="form-label" style="font-size: medium;">Email</label>    
+                    <input type="email" id="emailUser" name="emailUser" class="form-control" style="background-color: rgb(255, 255, 255); margin-bottom: 5%;">
                 </div>
-                <div class="mb-3">
-                    <label for="cpfUser" class="form-label">CPF:</label>
-                    <input type="text" id="cpfUser" name="cpfUser" class="form-control" style="background-color: rgba(223, 217, 217, 0.904);">
+
+                <div class="mb-3 col-12">
+                    <label for="cpfUser" class="form-label" style="font-size: medium;">CPF</label>
+                    <input type="text" id="cpfUser" name="cpfUser" class="form-control" style="background-color: rgb(255, 255, 255); margin-bottom: 4%;">
                 </div>
+
                 <p id="message"></p>
 
-                <button type="button" id="salvarBtn" class="btn" style="background-color: rgba(57, 111, 192, 0.712); font;">Salvar</button>
+                <button type="button" id="salvarBtn" class="btn col-12" style="background-color: rgba(57, 111, 192, 0.712); font-size: medium; margin-bottom: 3%; font-weight: bolder;">Salvar</button>
 
     
 
