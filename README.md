@@ -59,9 +59,9 @@
 
 <img src="Imagens/gif_atz_cpf3.png">
 
-## Principais Alterações
+# Principais Alterações
 
-### Criação  de array destinado ao CPF
+## Criação  de array destinado ao CPF
 
 #### A variável cpfLista está destinada a armazenar uma lista de CPFs (Cadastro de Pessoas Físicas, um número de registro individual usado no Brasil). Esses CPFs podem ser armazenados como strings ("123.456.789-09") ou como números (12345678909), dependendo de como o código for projetado.
 
@@ -73,6 +73,10 @@
 
 <img src="Imagens/gif_atz_cpf2.png">
 
+# Resultado Final
+
+<img src="Imagens/gif_atz_cpf4.png">
+
 
 # Tecnologias Utilizadas 
 
@@ -80,3 +84,4 @@
  - **[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
  - **[BootStrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)**
  - **[Adobe Express](https://www.adobe.com/br/express/)**
+ - **[Padlet](https://padlet.com/victorevangelista153/meu-padlet-diferenciado-pblfh23dlv5iaoi1)**
