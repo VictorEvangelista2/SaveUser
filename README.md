@@ -14,14 +14,14 @@
  - [x] Data interface through table
  - [x] Delete and edit in real time
 
-# Development
+<h1>Development</h1> 
 
-## Neste capítulo será apresentada as funções em JavaScript que se relacionam com a experiência do usuário de tal forma que a muda para uma maneira mais dinâmica e funcional.
+<h3> Neste capítulo será apresentada as funções em JavaScript que se relacionam com a experiência do usuário de tal forma que a muda para uma maneira mais dinâmica e funcional.</h3>
 
-## 1° Function "Acessar"
+<h3> 1. Function "Acessar"</h3>
 
 #### This function checks whether the email and password fields are filled in and, if so, redirects the user to another page. Otherwise, it displays a message asking you to fill in all the fields.
-![Screenshot_20240808-183248~3](https://github.com/user-attachments/assets/3654c5a0-c948-4eca-93fa-d020ccb977f1)
+![Acessar](Imagens/Function%20acessar.png)
 
 ### 2° Função "salvarUser"
 
