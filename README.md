@@ -1,7 +1,7 @@
-# Projeto para Salvar Cadastro 
+<img src="Imagens/Save.png" style="width: 100%; height: auto; ">
 
-# Introdução do Projeto
 
+# Introdução 
 
 #### Este projeto tem como objetivo criar um sistema de cadastro de usuário utilizando JavaScript. Nele, o nome do usuário será inserido em uma tabela para facilitar o gerenciamento e a visualização dos dados. 
 
@@ -10,6 +10,8 @@
  - [x] login de email e senha 
  - [x] Redirecionamneto para o cadastro
  - [x] Cadastro de Nome, Email, Senha e CPF
+ - [x] Interface dos dados por meio de tabela
+ - [x] Excluir e editar em tempo real
 
 # Desenvolvimento 
 
