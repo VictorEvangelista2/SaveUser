@@ -1,11 +1,16 @@
-<img src="Imagens/Save.png" style="width: 100%; height: auto; ">
+<img src="Imagens/Save.png" style="margin-bottom: 30px;">
+
+<img alt="Static Badges" src="https://img.shields.io/badge/version-1.2-blue">
+<img alt="Static Badges" src="https://img.shields.io/badge/JS--green">
+<img alt="Static Badges" src="https://img.shields.io/badge/CSS--green">
+<img alt="Static Badges" src="https://img.shields.io/badge/HTML--green">
+<img alt="Static Badges" src="https://img.shields.io/badge/English--purple">
 
 
-# Introduction
+<h1 style="font-family: Arial; margin-top: 20px;">Introduction</h1>
 
-## This project aims to create a user registration system using JavaScript. In it, the user's name will be inserted into a table to facilitate data management and visualization.
-
-## Functions in JavaScript play a crucial role in interacting with tables on a web page, making the application more dynamic and functional. They allow data to be entered, manipulated and displayed in the table efficiently and interactively. Therefore, the project will have the following functions:
+<h3>This project aims to create a user registration system using JavaScript. In it, the user's name will be inserted into a table to facilitate data management and visualization.</h3>
+<h3>Functions in JavaScript play a crucial role in interacting with tables on a web page, making the application more dynamic and functional. They allow data to be entered, manipulated and displayed in the table efficiently and interactively. Therefore, the project will have the following functions:</h3>
 
  - [x] email login and password
  - [x] Redirect to registration
