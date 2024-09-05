@@ -1,25 +1,25 @@
 <img src="Imagens/Save.png" style="width: 100%; height: auto; ">
 
 
-# Introdução 
+# Introduction
 
-#### Este projeto tem como objetivo criar um sistema de cadastro de usuário utilizando JavaScript. Nele, o nome do usuário será inserido em uma tabela para facilitar o gerenciamento e a visualização dos dados. 
+## This project aims to create a user registration system using JavaScript. In it, the user's name will be inserted into a table to facilitate data management and visualization.
 
-#### As funções em JavaScript desempenham um papel crucial na interação com tabelas em uma página web, tornando a aplicação mais dinâmica e funcional. Elas permitem que os dados sejam inseridos, manipulados e exibidos na tabela de forma eficiente e interativa. Portanto o projeto terá as seguintes funções: 
+## Functions in JavaScript play a crucial role in interacting with tables on a web page, making the application more dynamic and functional. They allow data to be entered, manipulated and displayed in the table efficiently and interactively. Therefore, the project will have the following functions:
 
- - [x] login de email e senha 
- - [x] Redirecionamneto para o cadastro
- - [x] Cadastro de Nome, Email, Senha e CPF
- - [x] Interface dos dados por meio de tabela
- - [x] Excluir e editar em tempo real
+ - [x] email login and password
+ - [x] Redirect to registration
+ - [x] Registration of Name, Email, Password and CPF
+ - [x] Data interface through table
+ - [x] Delete and edit in real time
 
-# Desenvolvimento 
+# Development
 
-#### Neste capítulo será apresentada as funções em JavaScript que se relacionam com a experiência do usuário de tal forma que a muda para uma maneira mais dinâmica e funcional.
+## Neste capítulo será apresentada as funções em JavaScript que se relacionam com a experiência do usuário de tal forma que a muda para uma maneira mais dinâmica e funcional.
 
-### 1° Função "Acessar"
+## 1° Function "Acessar"
 
-#### Essa função verifica se os campos de email e senha estão preenchidos e, se estiverem, redireciona o usuário para outra página. Caso contrário, exibe uma mensagem solicitando o preenchimento de todos os campos.
+#### This function checks whether the email and password fields are filled in and, if so, redirects the user to another page. Otherwise, it displays a message asking you to fill in all the fields.
 ![Screenshot_20240808-183248~3](https://github.com/user-attachments/assets/3654c5a0-c948-4eca-93fa-d020ccb977f1)
 
 ### 2° Função "salvarUser"
