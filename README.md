@@ -1,10 +1,6 @@
 <img src="Imagens/Save.png" style="margin-bottom: 30px;">
 
-<img alt="Static Badges" src="https://img.shields.io/badge/version-1.2-blue">
-<img alt="Static Badges" src="https://img.shields.io/badge/JS--green">
-<img alt="Static Badges" src="https://img.shields.io/badge/CSS--green">
-<img alt="Static Badges" src="https://img.shields.io/badge/HTML--green">
-<img alt="Static Badges" src="https://img.shields.io/badge/English--purple">
+<img alt="Static Badges" src="https://img.shields.io/badge/version-1.2-blue"> <img alt="Static Badges" src="https://img.shields.io/badge/JS--green"> <img alt="Static Badges" src="https://img.shields.io/badge/CSS--green"> <img alt="Static Badges" src="https://img.shields.io/badge/HTML--green"> <img alt="Static Badges" src="https://img.shields.io/badge/English--purple">
 
 
 <h1 style="font-family: Arial; margin-top: 20px;">Introduction</h1>
