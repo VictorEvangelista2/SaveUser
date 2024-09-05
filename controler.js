@@ -127,7 +127,7 @@ function criaLista() {
 function excluir(index) {
     dadosLista.splice(index, 1);
     emailLista.splice(index, 1);
-    cpfLista.splice(index, 1); // Exclui também o CPF correspondente
+    cpfLista.splice(index, 1); // Exclui também o CPF
     criaLista(); // Atualiza a tabela após a exclusão
 }
 

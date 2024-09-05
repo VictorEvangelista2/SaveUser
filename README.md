@@ -52,7 +52,7 @@
  - <img src="Imagens/exemplo 2.png">
  - <img src="Gifs/exemplo-gif.gif">
 
-# Atualização do Projeto 
+# 1° Atualização do Projeto 
 
 #### Nesta atualização foram feitas diversas alterações tanto na estilização mostrada abaixo mas também nas funcões do arquivo em JavaScript com a adição de mais um campo para inserção do email do usuário. Portanto será mostrado abaixo as imagens e gifs da nova versão deste projeto.
 
@@ -60,9 +60,33 @@
 <img src="Imagens/exemploATZ2.png">
 <img src="Gifs/gifATZ.gif">
 
+# 2° Atualização do Projeto (Campo para inserir o CPF)
+
+<img src="Imagens/gif_atz_cpf3.png">
+
+# Principais Alterações
+
+## Criação  de array destinado ao CPF
+
+#### A variável cpfLista está destinada a armazenar uma lista de CPFs (Cadastro de Pessoas Físicas, um número de registro individual usado no Brasil). Esses CPFs podem ser armazenados como strings ("123.456.789-09") ou como números (12345678909), dependendo de como o código for projetado.
+
+<img src="Imagens/gif_atz_cpf.png">
+
+## Implementação de validação do CPF
+
+#### Este código JavaScript valida a entrada de um CPF e fornece feedback ao usuário. Ele verifica primeiro se um CPF foi inserido e, em seguida, utiliza a função "validarCPF" para determinar sua validade. Se o CPF for inválido, uma mensagem em vermelho é exibida; se for válido, a mensagem aparece em verde. O uso de cores e mensagens claras melhora a experiência do usuário, garantindo que erros de entrada sejam tratados adequadamente.
+
+<img src="Imagens/gif_atz_cpf2.png">
+
+# Resultado Final
+
+<img src="Imagens/gif_atz_cpf4.png">
+
+
 # Tecnologias Utilizadas 
 
  - **[HTML5](https://html.spec.whatwg.org/)**
  - **[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
  - **[BootStrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)**
  - **[Adobe Express](https://www.adobe.com/br/express/)**
+ - **[Padlet](https://padlet.com/victorevangelista153/meu-padlet-diferenciado-pblfh23dlv5iaoi1)**
