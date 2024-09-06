@@ -68,3 +68,7 @@
 ### [Padlet](https://padlet.com/victorevangelista153/meu-padlet-diferenciado-pblfh23dlv5iaoi1)
 ### [Canva](https://www.canva.com/pt_br/)
 ### [Mdn Docs](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+### [RockSeat](https://blog.rocketseat.com.br/como-fazer-um-bom-readme/)
+### [Freepik](https://br.freepik.com/)
+### [Alura](https://www.alura.com.br/artigos/css-grid-guia-propriedades-grid-container-grid-item)
+### [CSS Gradient](https://cssgradient.io/)
