@@ -21,12 +21,13 @@
 <h3> 1. Function "Acessar"</h3>
 
 #### This function checks whether the email and password fields are filled in and, if so, redirects the user to another page. Otherwise, it displays a message asking you to fill in all the fields.
-![Acessar](Imagens/Function%20acessar.png)
+<img src="Imagens/Function acessar.png" style="height: 180px;">
 
-### 2° Função "salvarUser"
+<h3>2° Função "salvarUser"</h3>
 
 #### Este código permite que o usuário insira um nome em um campo de texto. Se o nome for fornecido, ele é salvo em uma lista e a interface é atualizada para refletir o novo dado. Se o campo estiver vazio, o usuário recebe um alerta pedindo para inserir um nome.
-![Screenshot_20240808-192033~2](https://github.com/user-attachments/assets/3c063110-8936-4660-913b-c88630bf7b2b)
+
+<img src="Imagens/function salvarUser.png" style="height: 400px;">
 
 ### 3° Função "criaLista"
 
