@@ -43,19 +43,19 @@
 #### The delete function is like scissors for lists and tables. You indicate which item you want to cut (by index) and it removes it from both the internal list (where the data is stored) and the visual table (where the user sees the list).
 
 #### This function is very common in web applications that allow users to manage lists of items, such as to-do lists, contacts, products in a shopping cart, etc. When clicking a "Delete" button next to an item, this function would be called to remove the item from the list and interface.
-<img src="Imagens/function Excuir.png">
+<img src="Imagens/function Excuir.png" style="margin-bottom: 20px;">
 
 <h1>Conclusions</h1>
 
 ### A web application that allows the user to create a table with names entered by him, with deletion and editing functionalities, an application like this offers a simple and intuitive interface for the user to manage a list of names, providing the basic functionalities of editing and delete.
 
-<h1> Implementação de validação do CPF </h1>
+<h1 style="margin-top: 30px;"> Implementação de validação do CPF </h1>
 
 #### Este código JavaScript valida a entrada de um CPF e fornece feedback ao usuário. Ele verifica primeiro se um CPF foi inserido e, em seguida, utiliza a função "validarCPF" para determinar sua validade. Se o CPF for inválido, uma mensagem em vermelho é exibida; se for válido, a mensagem aparece em verde. O uso de cores e mensagens claras melhora a experiência do usuário, garantindo que erros de entrada sejam tratados adequadamente.
 
 <img src="Imagens/gif_atz_cpf2.png" style="margin-bottom: 20px;">
 
-# Results
+<h1 style="margin-bottom: 30px;"> Results </h1>
 
 <img src="Imagens/results.png" style="height: auto; margin-bottom: 20px;">
 
