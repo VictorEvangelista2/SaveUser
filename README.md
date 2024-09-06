@@ -16,81 +16,55 @@
 
 <h1>Development</h1> 
 
-<h3> Neste capítulo será apresentada as funções em JavaScript que se relacionam com a experiência do usuário de tal forma que a muda para uma maneira mais dinâmica e funcional.</h3>
+<h2> Neste capítulo será apresentada as funções em JavaScript que se relacionam com a experiência do usuário de tal forma que a muda para uma maneira mais dinâmica e funcional.</h2>
 
-<h3> 1. Function "Acessar"</h3>
+<h2> 1. Function "Acessar"</h2>
 
 #### This function checks whether the email and password fields are filled in and, if so, redirects the user to another page. Otherwise, it displays a message asking you to fill in all the fields.
 <img src="Imagens/Function acessar.png" style="height: 180px;">
 
-<h3>2° Função "salvarUser"</h3>
+<h2> 2. Function "salvarUser"</h2>
 
 #### Este código permite que o usuário insira um nome em um campo de texto. Se o nome for fornecido, ele é salvo em uma lista e a interface é atualizada para refletir o novo dado. Se o campo estiver vazio, o usuário recebe um alerta pedindo para inserir um nome.
-
 <img src="Imagens/function salvarUser.png" style="height: 400px;">
 
-### 3° Função "criaLista"
+<h2> 3. Function "criaLista"</h2>
 
-#### Esta função criaLista() gera dinamicamente uma tabela HTML que lista todos os nomes de usuários armazenados em dadosLista. Ela também adiciona botões "Editar" e "Excluir" para cada linha, permitindo que o usuário interaja com os dados diretamente na tabela, tornando a página mais interativa e funcional.
-![Screenshot_20240808-193624~3](https://github.com/user-attachments/assets/6e00156c-251e-41ad-9cf3-8d671aa70085)
+#### This createList() function dynamically generates an HTML table that lists all usernames stored in dataList. It also adds "Edit" and "Delete" buttons for each row, allowing the user to interact with the data directly in the table, making the page more interactive and functional.
+<img src="Imagens/function CriarLista.png" style="height: 150px;">
 
-### 4° Função "Editar Nomes"
+<h2> 4. Function "Editar Nomes"</h2>
 
-#### A função editar é uma ferramenta para modificar uma lista de nomes, permitindo que você selecione um nome, edite-o em um campo de texto e atualize a lista original com a nova informação.
-![Screenshot_20240808-195124~2](https://github.com/user-attachments/assets/8c1d1c13-65a2-4f1d-bab5-ea94704bf22a)
+#### The edit function is a tool for modifying a list of names, allowing you to select a name, edit it in a text field, and update the original list with the new information.
+<img src="Imagens/function editar.png" style="height: 180px;">
 
-### 5° Função "Excluir Nomes" 
+<h2> 5. Função "Excluir Nomes"</h2> 
 
-#### A função excluir é como uma tesoura para listas e tabelas. Você indica qual item deseja cortar (pelo índice) e ela remove tanto da lista interna (onde os dados são armazenados) quanto da tabela visual (onde o usuário vê a lista).
+#### The delete function is like scissors for lists and tables. You indicate which item you want to cut (by index) and it removes it from both the internal list (where the data is stored) and the visual table (where the user sees the list).
 
-#### Essa função é muito comum em aplicações web que permitem aos usuários gerenciar listas de itens, como listas de tarefas, contatos, produtos em um carrinho de compras, etc. Ao clicar em um botão "Excluir" ao lado de um item, essa função seria chamada para remover o item da lista e da interface.
-![Screenshot_20240808-195124~3](https://github.com/user-attachments/assets/5cbbf544-3e34-42b1-b289-4cbd88cbc5a8)
+#### This function is very common in web applications that allow users to manage lists of items, such as to-do lists, contacts, products in a shopping cart, etc. When clicking a "Delete" button next to an item, this function would be called to remove the item from the list and interface.
+<img src="Imagens/function Excuir.png">
 
-# Conclusões 
+<h1>Conclusions</h1>
 
-### Uma aplicação web que permite ao usuário criar uma tabela com nomes inseridos por ele, com as funcionalidades de exclusão e edição, uma aplicação como essa oferece uma interface simples e intuitiva para o usuário gerenciar uma lista de nomes, proporcionando as funcionalidades básicas de editar e excluir.
+### A web application that allows the user to create a table with names entered by him, with deletion and editing functionalities, an application like this offers a simple and intuitive interface for the user to manage a list of names, providing the basic functionalities of editing and delete.
 
-# Resultados Finais 
-
- - <img src="Imagens/exemplo 1.png">
- - <img src="Imagens/exemplo 2.png">
- - <img src="Gifs/exemplo-gif.gif">
-
-# 1° Atualização do Projeto 
-
-#### Nesta atualização foram feitas diversas alterações tanto na estilização mostrada abaixo mas também nas funcões do arquivo em JavaScript com a adição de mais um campo para inserção do email do usuário. Portanto será mostrado abaixo as imagens e gifs da nova versão deste projeto.
-
-<img src="Imagens/exemploATZ.png">
-<img src="Imagens/exemploATZ2.png">
-<img src="Gifs/gifATZ.gif">
-
-# 2° Atualização do Projeto (Campo para inserir o CPF)
-
-<img src="Imagens/gif_atz_cpf3.png">
-
-# Principais Alterações
-
-## Criação  de array destinado ao CPF
-
-#### A variável cpfLista está destinada a armazenar uma lista de CPFs (Cadastro de Pessoas Físicas, um número de registro individual usado no Brasil). Esses CPFs podem ser armazenados como strings ("123.456.789-09") ou como números (12345678909), dependendo de como o código for projetado.
-
-<img src="Imagens/gif_atz_cpf.png">
-
-## Implementação de validação do CPF
+<h1> Implementação de validação do CPF </h1>
 
 #### Este código JavaScript valida a entrada de um CPF e fornece feedback ao usuário. Ele verifica primeiro se um CPF foi inserido e, em seguida, utiliza a função "validarCPF" para determinar sua validade. Se o CPF for inválido, uma mensagem em vermelho é exibida; se for válido, a mensagem aparece em verde. O uso de cores e mensagens claras melhora a experiência do usuário, garantindo que erros de entrada sejam tratados adequadamente.
 
-<img src="Imagens/gif_atz_cpf2.png">
+<img src="Imagens/gif_atz_cpf2.png" style="margin-bottom: 20px;">
 
-# Resultado Final
+# Results
 
-<img src="Imagens/gif_atz_cpf4.png">
+<img src="Imagens/results.png" style="height: auto; margin-bottom: 20px;">
 
+# Technologies Used
 
-# Tecnologias Utilizadas 
-
- - **[HTML5](https://html.spec.whatwg.org/)**
- - **[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
- - **[BootStrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)**
- - **[Adobe Express](https://www.adobe.com/br/express/)**
- - **[Padlet](https://padlet.com/victorevangelista153/meu-padlet-diferenciado-pblfh23dlv5iaoi1)**
+### [HTML5](https://html.spec.whatwg.org/)
+### [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+### [BootStrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+### [Adobe Express](https://www.adobe.com/br/express/)
+### [Padlet](https://padlet.com/victorevangelista153/meu-padlet-diferenciado-pblfh23dlv5iaoi1)
+### [Canva](https://www.canva.com/pt_br/)
+### [Mdn Docs](https://developer.mozilla.org/pt-BR/docs/Web/HTML)

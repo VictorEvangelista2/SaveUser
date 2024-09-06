@@ -137,7 +137,7 @@ function editar(index) {
     document.getElementById('emailUser').value = emailLista[index];
     document.getElementById('cpfUser').value = cpfLista[index]; // Preenche o campo de CPF para edição
 
-    // Remove os valores dos arrays para permitir a edição
+    // Remove os valores dos arrays para permitir a edição  
     dadosLista.splice(index, 1);
     emailLista.splice(index, 1);
     cpfLista.splice(index, 1);
