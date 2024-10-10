@@ -16,7 +16,7 @@
 
 <h1>Development</h1> 
 
-<h2> Neste capítulo será apresentada as funções em JavaScript que se relacionam com a experiência do usuário de tal forma que a muda para uma maneira mais dinâmica e funcional.</h2>
+<h2>In this chapter we will present the functions in JavaScript that relate to the user experience in such a way that changes it to a more dynamic and functional way.</h2>
 
 <h2> 1. Function "Acessar"</h2>
 
@@ -25,7 +25,7 @@
 
 <h2> 2. Function "salvarUser"</h2>
 
-#### Este código permite que o usuário insira um nome em um campo de texto. Se o nome for fornecido, ele é salvo em uma lista e a interface é atualizada para refletir o novo dado. Se o campo estiver vazio, o usuário recebe um alerta pedindo para inserir um nome.
+#### This code allows the user to enter a name into a text field. If the name is provided, it is saved in a list and the interface is updated to reflect the new data. If the field is empty, the user receives an alert asking to enter a name.
 <img src="Imagens/function salvarUser.png" style="height: 400px;">
 
 <h2> 3. Function "criaLista"</h2>
@@ -51,7 +51,7 @@
 
 <h1 style="margin-top: 30px;"> Implementação de validação do CPF </h1>
 
-#### Este código JavaScript valida a entrada de um CPF e fornece feedback ao usuário. Ele verifica primeiro se um CPF foi inserido e, em seguida, utiliza a função "validarCPF" para determinar sua validade. Se o CPF for inválido, uma mensagem em vermelho é exibida; se for válido, a mensagem aparece em verde. O uso de cores e mensagens claras melhora a experiência do usuário, garantindo que erros de entrada sejam tratados adequadamente.
+#### This JavaScript code validates the entry of a CPF and provides feedback to the user. It first checks whether a CPF has been entered and then uses the "validarCPF" function to determine its validity. If the CPF is invalid, a red message is displayed; if it is valid, the message appears in green. Using clear colors and messaging improves the user experience by ensuring input errors are handled appropriately.
 
 <img src="Imagens/gif_atz_cpf2.png" style="margin-bottom: 20px;">
 
